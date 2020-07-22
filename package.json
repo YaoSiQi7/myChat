@@ -1,0 +1,23 @@
+{
+  "name": "mychat",
+  "version": "1.0.0",
+  "description": "聊天室demo",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YaoSiQi7/myChat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YaoSiQi7/myChat/issues"
+  },
+  "homepage": "https://github.com/YaoSiQi7/myChat#readme",
+  "devDependencies": {
+    "express": "3.4.x",
+    "socket.io": "0.9.x"
+  }
+}
