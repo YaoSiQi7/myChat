@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/YaoSiQi7/myChat#readme",
   "devDependencies": {
-    "express": "3.4.x",
+    "express": "4.17.x",
     "socket.io": "0.9.x"
   }
 }
