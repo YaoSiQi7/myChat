@@ -11,7 +11,9 @@ myChat
 如何运行
 ---
 1.npm install 安装插件
+
 2.node server.js 运行server.js文件,启动服务
-3、打开浏览器，访问localhost:8000
+
+3.打开浏览器，访问localhost:8000
 
 
